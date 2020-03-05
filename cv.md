@@ -2,3 +2,6 @@
 ## Contact Info
 * [github](https://github.com/rg-xvai)
 * mr7xgd7@gmail.com
+## Softskills
+* Work ethic, teamwork, effective communication
+* Problem-solving, time management
