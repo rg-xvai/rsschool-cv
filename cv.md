@@ -5,3 +5,6 @@
 ## Softskills
 * Work ethic, teamwork, effective communication
 * Problem-solving, time management
+## Professional skills
+* Java,Git
+* C#,Unity
